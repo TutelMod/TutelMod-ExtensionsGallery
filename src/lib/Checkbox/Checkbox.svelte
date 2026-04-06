@@ -70,7 +70,7 @@
     }
 
     .checkbox[data-checked="true"] {
-        background: dodgerblue;
+        background: rgb(23, 241, 60);
     }
     .checkbox[data-checked="true"] img {
         filter: brightness(1);

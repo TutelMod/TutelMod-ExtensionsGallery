@@ -27,7 +27,7 @@
 <div style="height: 24px"></div>
 <div class="footer">
     <span>
-        PenguinMod is not affiliated with TurboWarp, Scratch, the Scratch Team, or
+        TutelMod is not affiliated with PenguinMod, TurboWarp, Scratch, the Scratch Team, or
         the Scratch Foundation.
     </span>
     <span>
@@ -38,19 +38,19 @@
 <div class="links">
     <a
         target="_blank"
-        href="https://github.com/PenguinMod/PenguinMod-ExtensionsGallery"
+        href="https://github.com/TutelMod/TutelMod-ExtensionsGallery"
     >
         GitHub
     </a>
     <span style="margin: 0px 6px;">-</span>
     <a
         target="_blank"
-        href="https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/blob/main/README.md"
+        href="https://github.com/TutelMod/TutelMod-ExtensionsGallery/blob/main/README.md"
     >
         Submitting an extension
     </a>
     <span style="margin: 0px 6px;">-</span>
-    <a target="_blank" href="https://discord.gg/NZ9MBMYTZh">Discord</a>
+    <a target="_blank" href="https://discord.gg/SbC4aXGb9A">Discord</a>
 </div>
 <div style="height: 12px"></div>
 <div class="footer">

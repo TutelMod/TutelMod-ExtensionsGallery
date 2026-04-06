@@ -1,7 +1,7 @@
 class ExtensionLoader {
     static getTargetOrigin() {
         const isLocal = location.hostname === "localhost";
-        return isLocal ? "http://localhost:3000" : "https://studio.penguinmod.com";
+        return isLocal ? "http://localhost:3000" : "https://tutelmod.github.io";
     }
     static tryLoadExtension(url) {
         const parent = window.opener || window.parent;

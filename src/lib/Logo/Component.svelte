@@ -1,6 +1,6 @@
 <img
     src="/favicon.ico"
-    alt="PenguinMod Logo"
+    alt="TutelMod Logo"
     class="logo"
 />
 
