@@ -25,7 +25,7 @@
 
     // used for search
     let relUrl = $derived(props.relUrl);
-    const baseUrl = "https://studio.penguinmod.com/editor.html?extension=";
+    const baseUrl = "https://tutelmod.github.io/editor.html?extension=";
 
     /**
      * The button to copy the URL

@@ -56,6 +56,10 @@ export const Tags = [
         name: "small",
         alias: "Small Extensions",
     },
+    {
+        name: "fun",
+        alias: "Funny Extensions",
+    },
 ];
 
 export function makeDefaultTag() {

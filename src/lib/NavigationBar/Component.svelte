@@ -92,10 +92,10 @@
 
 <style>
     :root {
-        --penguinmod-color: #00c3ff;
+        --penguinmod-color: #00ff0d;
     }
     :global(body.dark-mode) {
-        --penguinmod-color: #009ccc;
+        --penguinmod-color: #1d4e16;
     }
 
     .bar {
