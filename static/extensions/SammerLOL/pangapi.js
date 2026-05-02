@@ -12,7 +12,7 @@
 
   const Cast = Scratch.Cast;
 
-  const apiURL = "https://projects.penguinmod.com/api/v1/";
+  const apiURL = "https://projects.tutelmod.com/api/v1/";
 
   /*
     prevent server spam by using a cache system,
